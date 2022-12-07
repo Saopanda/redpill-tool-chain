@@ -5,9 +5,13 @@
         "sn": "DELADE3NAVO9T",
         "mac1": "F69574360D1A",
         "SataPortMap": "164",
-        "DiskIdxMap": "100008"
+        "DiskIdxMap": "100006"
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "esataportcfg": "0x0",
+        "internalportcfg": "0xfffffffff",
+        "maxdisks": "36"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
