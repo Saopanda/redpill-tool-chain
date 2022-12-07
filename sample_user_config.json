@@ -5,10 +5,7 @@
         "sn": "DELADE3NAVO9T",
         "mac1": "F69574360D1A"
     },
-    "synoinfo": {
-        "internalportcfg": "Oxffff",
-        "maxdisks": "32"
-    },
+    "synoinfo": {},
     "ramdisk_copy": {},
     "extensions": []
 }
