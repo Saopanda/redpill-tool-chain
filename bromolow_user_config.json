@@ -1,0 +1,14 @@
+{
+    "extra_cmdline": {
+        "pid": "0x0001",
+        "vid": "0x46f4",
+        "sn": "DELADE3NAVO9T",
+        "mac1": "F69574360D1A"
+    },
+    "synoinfo": {
+        "internalportcfg": "Oxffff",
+        "maxdisks": "32"
+    },
+    "ramdisk_copy": {},
+    "extensions": []
+}
