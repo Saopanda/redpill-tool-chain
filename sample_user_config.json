@@ -7,7 +7,7 @@
     },
     "synoinfo": {
         "internalportcfg": "Oxffff",
-        "maxdisks": "32
+        "maxdisks": "32"
     },
     "ramdisk_copy": {},
     "extensions": []
